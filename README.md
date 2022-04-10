@@ -11,7 +11,7 @@ Louise's budget was $10K but that is more funding than most have been able to ac
 Also, it appears the best month to launch would be May.
 
 ---
-# NOTE:
+#NOTE:
 This exercise continues in the Module 1 Challenge, so please refer to the more complete analysis there...
 ---
 :)
