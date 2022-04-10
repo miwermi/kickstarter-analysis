@@ -1,7 +1,6 @@
 # "kickstarter-analysis" 
 ---
-#Module 1 Exercise
-An Analysis of Kickstarter Campaigns 
+# Module 1 Exercise: An Analysis of Kickstarter Campaigns 
 
 Performing analysis on kickstarter data to uncover trends for hypothetical analysis project for Louise, a playwrite who wants to do a kickstarter campaign to fund her play, "FEVER"
 
@@ -12,7 +11,7 @@ Louise's budget was $10K but that is more funding than most have been able to ac
 Also, it appears the best month to launch would be May.
 
 ---
-#NOTE:
+# NOTE:
 This exercise continues in the Module 1 Challenge, so please refer to the more complete analysis there...
 ---
 :)
