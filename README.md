@@ -1,4 +1,5 @@
-#"kickstarter-analysis" (Module 1 Exercise) 
+# "kickstarter-analysis" 
+#(Module 1 Exercise) 
 An Analysis of Kickstarter Campaigns 
 
 Performing analysis on kickstarter data to uncover trends for hypothetical analysis project for Louise, a playwrite who wants to do a kickstarter campaign to fund her play, "FEVER"
