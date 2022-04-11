@@ -62,12 +62,12 @@ By calculating "Percentage Funded" and the "Average Funded" (in additional data 
 ## Results
 
 ![Outcomes Based On Launch Date](Assets/Theater_Outcomes_vs_Launch.png)
-Outcomes Based on Launch Date Conclusions:
+#### Outcomes Based on Launch Date Conclusions:
 
 Louise would do well to launch her kickstarter campaign in May. May has the highest success rate of any month accouding to the data analyized.  Louise should aim to completely avoid launching in December or January.
 
 
 ![Outcomes Based On Goals](Assets/Outcomes_vs_Goals.png)
-Outcomes based on Goals Conclusions:
+#### Outcomes based on Goals Conclusions:
 
 Louise should try to get her play produced for less money - OR simply run her kickstarter fundraiser for at a lower campaign rater - and find a supplemental source of funding (or perhaps lauch a second campaign later).
