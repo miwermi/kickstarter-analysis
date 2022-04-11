@@ -1,4 +1,4 @@
-Michelle Werner (4/10/2022)
+                                                                Michelle Werner (4/10/2022)
 # Kickstarting with Excel: An Analysis of Kickstarter Campaigns 
 ---
 
@@ -15,9 +15,9 @@ With an in-depth analysis of global kickstarter campaign data, I hope to generat
 
 ## Analysis and Challenges
 
-For this analysis, data sorting began with adding conditional visuals to outcomes, designating successful campaigns (campaigns that reached their goal and were funded) in green, unsucessful campaigns in red, campaigns that are still ongoing (live) in blue, and canceled campaigns in yellow. This is visible in the column labeld "Outcomes" of the main "Kickstarter" worksheet. By adding a pivot table and with these four outcomes as columns, the view of the data is further simplified and highlights that the category of "theater" (the category our client's kickstarter falls into being that it is a "play") is typically a highly successful category for this type of fundraising.
+For this analysis, data sorting began with adding conditional visuals to the outcomes column, designating successful campaigns (campaigns that reached their goal and were funded) in green, unsucessful campaigns in red, campaigns that are still ongoing (live) in blue, and canceled campaigns in yellow. This is visible in the column labeled "Outcomes" of the main "Kickstarter" worksheet. By adding a pivot table and with these four outcomes as columns, the view of the data is further simplified and highlights the fact that, in the US, the category of "theater" (the category our client's kickstarter falls into, with subcategory "play") typcially has one of the highest success rates with this type of fundraising - coming in at #3 under films & music if we tally the score by percentage rate, and 1st in sheer volumes.
 
-![Louise's Budget](Assets/Kickstarter_ParentCategoryOutcomes.png)
+![Louise's Budget](Assets/Kickstarter_ParentCategoryOutcomes_US_withData.png)
 Figure 1: Category Outcomes for US Kickstarters
 
 
