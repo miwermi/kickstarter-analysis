@@ -4,10 +4,10 @@ Michelle Werner (4/10/2022)
 
 ## Overview of Project
 
-The client, Louise, is planning on launching a kickstarter campaign to fund the production of her play, "Fever". She has a $10K budget and has asked for help in determining best practices for a successful campaign - which will hopefully aid in her fundraising efforts and conclude with the successful funding of her play. 
+For this project, the client Louise is planning on launching a kickstarter campaign to fund the production of her play, "Fever". She has a $10K budget and has asked for help in determining best practices for a successful campaign - which will hopefully aid in her fundraising efforts and conclude with the successful funding of her play. 
 
 ![Louise's Budget](Assets/FeverKickstarterforLouise.png)
-Pictured above: Louise's Budget
+Pictured: Louise's Budget
 
 ### Purpose
 
