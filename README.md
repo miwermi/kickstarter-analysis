@@ -42,9 +42,18 @@ Figure 3: Outcomes for US "Theater" Kickstarters by Launch Date
 
 By charting outcomes on a line chart with markers based on launch date, we see that the month that lauched the most successful Kickstarter campaigns was May. Also illustrated is that failed kickstarters have occured at similarly high rates in January, June, July and October.  If possible, Louise should launch her campaign in may.
 
-### Analysis of Outcomes Based on Goals
+### Analyis of Funding IQRs
 
 ![Funding IQRs](Assets/Funding_IQRs.png)
+Figure 4: Funding IQRs
+
+Looking at funding, most failed kickstarter campaigns have had higher funding goals. Louise is asking for more than twice the average successful kickstarter goal.  In order for her to have the best chance of success, Louise might consider lowering her fundraising goal on this platform.
+
+### Analysis of Outcomes Based on Goals
+
+
+![Outcomes Based On Goals](Assets/Kickstarter_Outcomes_vs_Goals.png)
+Figure 5: Outcomes vs. Goals
 
 By calculating "Percentage Funded" and the "Average Funded" (in additional data columns), it is possible to chart the outcomes based on month to identify trends in launch date to better understand how these dates might coorelate with campaign success.
 
@@ -60,9 +69,4 @@ Louise would do well to launch her kickstarter campaign in May. May has the high
 
 
 ![Outcomes Based On Goals](Assets/Kickstarter_Outcomes_vs_Goals.png)
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+Outcomes based on Goals Conclusions:
