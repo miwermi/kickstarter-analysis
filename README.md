@@ -51,11 +51,10 @@ Looking at funding, most failed kickstarter campaigns have had higher funding go
 
 ### Analysis of Outcomes Based on Goals
 
-
-![Outcomes Based On Goals](Assets/Kickstarter_Outcomes_vs_Goals.png)
+![Outcomes Based On Goals](Assets/Outcomes_vs_Goals.png)
 Figure 5: Outcomes vs. Goals
 
-By calculating "Percentage Funded" and the "Average Funded" (in additional data columns), it is possible to chart the outcomes based on month to identify trends in launch date to better understand how these dates might coorelate with campaign success.
+By calculating "Percentage Funded" and the "Average Funded" (in additional data columns), it is possible to chart the outcomes based on month to identify trends in launch date to better understand how these dates might coorelate with campaign success. In the chart above "Outcomes vs. Goals", it is not clear what is actually going on, except that there may be many unknown reasons why campaigns fail.
 
 
 ### Challenges and Difficulties Encountered
@@ -68,5 +67,7 @@ Outcomes Based on Launch Date Conclusions:
 Louise would do well to launch her kickstarter campaign in May. May has the highest success rate of any month accouding to the data analyized.  Louise should aim to completely avoid launching in December or January.
 
 
-![Outcomes Based On Goals](Assets/Kickstarter_Outcomes_vs_Goals.png)
+![Outcomes Based On Goals](Assets/Outcomes_vs_Goals.png)
 Outcomes based on Goals Conclusions:
+
+Louise should try to get her play produced for less money - OR simply run her kickstarter fundraiser for at a lower campaign rater - and find a supplemental source of funding (or perhaps lauch a second campaign later).
