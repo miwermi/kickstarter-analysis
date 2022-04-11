@@ -1,4 +1,4 @@
-                                                                                     Michelle Werner (4/10/2022)
+                                                                                       Michelle Werner (4/10/2022)
 # Kickstarting with Excel: An Analysis of Kickstarter Campaigns 
 ---
 
@@ -12,6 +12,7 @@ Pictured: Louise's Budget
 ### Purpose
 
 With an in-depth analysis of global kickstarter campaign data, I hope to generate recommendations that will help the client make decisions about how to manage both her campaign and plan her kickstarter goals and launch  from an informed viewpoint. The analytics provided in this report should make it possible for my client to leverage analysis insights to improve the probability of a successesful campaign and ensure its meeting - and hopefully surpassing - fundraising goals. 
+
 
 
 ## Analysis and Challenges
@@ -36,8 +37,10 @@ Figure 1: Outcomes for US Kickstarters by Subategory
 By calculating "Percentage Funded" and the "Average Funded" (in additional data columns), it is possible to chart the outcomes based on month to identify trends in launch date to better understand how these dates might coorelate with campaign success.
 
 
-![Outcomes by LaunchDate](Assets/Kickstarter_TheaterOutcomesBasedOnLauchDate_withData.png)
 ### Analysis of Outcomes Based on Launch Date
+
+![Outcomes by LaunchDate](Assets/Kickstarter_TheaterOutcomesBasedOnLauchDate_withData.png)
+
 
 By charting outcomes on a line chart with markers based on launch date, we see that the month that lauched the most successful Kickstarter campaigns was May (234/2185). Also illustrated is that failed kickstarters have occured at similarly high rates in January, June, July and October (all near 150/1500).
 
