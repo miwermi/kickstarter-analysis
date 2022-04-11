@@ -15,11 +15,20 @@ With an in-depth analysis of global kickstarter campaign data, I hope to generat
 
 ## Analysis and Challenges
 
-For this analysis, data sorting began with adding conditional visuals to the outcomes column, designating successful campaigns (campaigns that reached their goal and were funded) in green, unsucessful campaigns in red, campaigns that are still ongoing (live) in blue, and canceled campaigns in yellow. This is visible in the column labeled "Outcomes" of the main "Kickstarter" worksheet. By adding a pivot table and with these four outcomes as columns, the view of the data is further simplified and highlights the fact that, in the US, the category of "theater" (the category our client's kickstarter falls into, with subcategory "play") typcially has one of the highest success rates with this type of fundraising - coming in at #3 under films & music if we tally the score by percentage rate, and 1st in sheer volumes.
+For this analysis, data sorting began with adding conditional visuals to the outcomes column, designating successful campaigns (campaigns that reached their goal and were funded) in green, unsucessful campaigns in red, campaigns that are still ongoing (live) in blue, and canceled campaigns in yellow. This is visible in the column labeled "Outcomes" of the main "Kickstarter" worksheet. 
+
+By adding a pivot table and with these four outcomes as columns, the view of the data is further simplified and highlights the fact that, in the US, the category of "theater" (the category our client's kickstarter falls into, with subcategory "play") typcially has one of the highest success rates with this type of fundraising - coming in at #3 under films & music if we tally the score by percentage rate, and 1st in sheer volumes.
+
 
 ![Louise's Budget](Assets/Kickstarter_ParentCategoryOutcomes_US_withData.png)
-Figure 1: Category Outcomes for US Kickstarters
+Figure 1: Outcomes for US Kickstarters by Category
 
+In the figure above, the stacked columns chart on the right illustrates the volume of kickstarters in each category in the US.  On the left, we see the data that produced this chart, but also see the percentage rates (for this initial review, only counts and percentages were used; more sophisticated statistical analysis could also be performed if the client is interested in a higher level of accuracy in trend forecasting).
+
+By performing the same comparisons on the "subcategory" of "plays", t
+
+![Louise's Budget](Assets/Kickstarter_SubcategoryOutcomes_US_withData.png)
+Figure 1: Outcomes for US Kickstarters by Subategory
 
 
 By calculating "Percentage Funded" and the "Average Funded" (in additional data columns), it is possible to chart the outcomes based on month to identify trends in launch date to better understand how these dates might coorelate with campaign success.
