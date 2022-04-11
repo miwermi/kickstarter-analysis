@@ -29,7 +29,7 @@ In the figure above, the chart of stacked columns on the right illustrates the v
 
 
 ![Outcomes by Subcategory](Assets/Kickstarter_SubategoryOutcomes_US.png)
-Figure 1: Outcomes for US Kickstarters by Subategory
+Figure 2: Outcomes for US Kickstarters by Subategory
 
 
 
@@ -40,7 +40,7 @@ By calculating "Percentage Funded" and the "Average Funded" (in additional data 
 ### Analysis of Outcomes Based on Launch Date
 
 ![Outcomes by LaunchDate](Assets/Kickstarter_TheaterOutcomesBasedOnLauchDate_withData.png)
-
+Figure 3: Outcomes for US "Theater" Kickstarters by Launch Date
 
 By charting outcomes on a line chart with markers based on launch date, we see that the month that lauched the most successful Kickstarter campaigns was May (234/2185). Also illustrated is that failed kickstarters have occured at similarly high rates in January, June, July and October (all near 150/1500).
 
