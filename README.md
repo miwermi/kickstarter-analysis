@@ -1,4 +1,4 @@
-                                                                                     Michelle Werner (4/10/2022)
+                                                                                           Michelle Werner (4/10/2022)
 # Kickstarting with Excel: An Analysis of Kickstarter Campaigns 
 ---
 
@@ -12,6 +12,7 @@ Pictured: Louise's Budget
 ### Purpose
 
 With an in-depth analysis of global kickstarter campaign data, I hope to generate recommendations that will help the client make decisions about how to manage both her campaign and plan her kickstarter goals and launch  from an informed viewpoint. The analytics provided in this report should make it possible for my client to leverage analysis insights to improve the probability of a successesful campaign and ensure its meeting - and hopefully surpassing - fundraising goals. 
+
 
 
 ## Analysis and Challenges
@@ -28,20 +29,24 @@ In the figure above, the chart of stacked columns on the right illustrates the v
 
 
 ![Outcomes by Subcategory](Assets/Kickstarter_SubategoryOutcomes_US.png)
-Figure 1: Outcomes for US Kickstarters by Subategory
+
+Figure 2: Outcomes for US Kickstarters by Subategory
+
+In figure 2, we see clearly the volume of "plays" successfully funded via this kickstarter method. Louise is on the right track!
 
 
+### Analysis of Outcomes Based on Launch Date
+
+![Outcomes by LaunchDate](Assets/Kickstarter_TheaterOutcomesBasedOnLauchDate_withData.png)
+Figure 3: Outcomes for US "Theater" Kickstarters by Launch Date
+
+By charting outcomes on a line chart with markers based on launch date, we see that the month that lauched the most successful Kickstarter campaigns was May. Also illustrated is that failed kickstarters have occured at similarly high rates in January, June, July and October.  If possible, Louise should launch her campaign in may.
+
+### Analysis of Outcomes Based on Goals
 
 
 By calculating "Percentage Funded" and the "Average Funded" (in additional data columns), it is possible to chart the outcomes based on month to identify trends in launch date to better understand how these dates might coorelate with campaign success.
 
-
-![Outcomes by LaunchDate](Assets/Kickstarter_TheaterOutcomesBasedOnLauchDate_withData.png)
-### Analysis of Outcomes Based on Launch Date
-
-By charting outcomes on a line chart with markers based on launch date, we see that the month that lauched the most successful Kickstarter campaigns was May (234/2185). Also illustrated is that failed kickstarters have occured at similarly high rates in January, June, July and October (all near 150/1500).
-
-### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
 
@@ -50,16 +55,13 @@ By charting outcomes on a line chart with markers based on launch date, we see t
 ![Outcomes Based On Launch Date](Assets/Kickstarter_OutcomesBasedOnLaunchDate.png)
 Outcomes Based on Launch Date Conclusions:
 
-Louise would do well to launch her kickstarter campaign in May. May has the highest success rate of any month accouding to the data analyized.
-
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+Louise would do well to launch her kickstarter campaign in May. May has the highest success rate of any month accouding to the data analyized.  Louise should aim to completely avoid launching in December or January.
 
 
 ![Outcomes Based On Goals](Assets/Kickstarter_Outcomes_vs_Goals.png)
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
-
