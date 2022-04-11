@@ -1,20 +1,26 @@
+Michelle Werner (4/10/2022)
 # Kickstarting with Excel: An Analysis of Kickstarter Campaigns 
 ---
-Michelle Werner (4/10/2022)
-
 
 ## Overview of Project
 
 The client, Louise, is planning on launching a kickstarter campaign to fund the production of her play, "Fever". She has a $10K budget and has asked for help in determining best practices for a successful campaign - which will hopefully aid in her fundraising efforts and conclude with the successful funding of her play. 
+
 ![Louise's Budget](Assets/FeverKickstarterforLouise.png)
+Pictured above: Louise's Budget
 
 ### Purpose
 
-With my analysis of kickstarter campaign data, I hope to generate recommendations that will help the client make decisions about how to manage their campaign expectations and plan their kickstarter launch and goals from an informed viewpoint. The analytics provided in this report should make it possible for my client to leverage analysis insights to improve the success of the their campaign and ensure they are able to meet or surpass their fundraising goals. 
+With an in-depth analysis of global kickstarter campaign data, I hope to generate recommendations that will help the client make decisions about how to manage both her campaign and plan her kickstarter goals and launch  from an informed viewpoint. The analytics provided in this report should make it possible for my client to leverage analysis insights to improve the probability of a successesful campaign and ensure its meeting - and hopefully surpassing - fundraising goals. 
 
 ## Analysis and Challenges
 
-For this analysis, I began by sorting the data and adding conditional visuals to the outcomes column designating successful campaigns (campaigns that reached their goal and were funded) in green, unsucessful campaigns in red, campaigns that are still ongoing (live) in blue, and canceled campaigns in yellow. This is visible in the column labeld "Outcomes" of the main "Kickstarter" worksheet.
+For this analysis, data sorting began with adding conditional visuals to outcomes, designating successful campaigns (campaigns that reached their goal and were funded) in green, unsucessful campaigns in red, campaigns that are still ongoing (live) in blue, and canceled campaigns in yellow. This is visible in the column labeld "Outcomes" of the main "Kickstarter" worksheet. By adding a pivot table and with these four outcomes as columns, the view of the data is further simplified and highlights that the category of "theater" (the category our client's kickstarter falls into being that it is a "play") is typically a highly successful category for this type of fundraising.
+
+![Louise's Budget](Assets/Kickstarter_ParentCategoryOutcomes.png)
+Figure 1: Category Outcomes for US Kickstarters
+
+
 
 By calculating "Percentage Funded" and the "Average Funded" (in additional data columns), it is possible to chart the outcomes based on month to identify trends in launch date to better understand how these dates might coorelate with campaign success.
 
