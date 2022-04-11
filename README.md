@@ -1,4 +1,4 @@
-                                                                Michelle Werner (4/10/2022)
+                                                                                Michelle Werner (4/10/2022)
 # Kickstarting with Excel: An Analysis of Kickstarter Campaigns 
 ---
 
