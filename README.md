@@ -58,7 +58,7 @@ By calculating "Percentage Funded" and the "Average Funded" (in additional data 
 
 
 ### Challenges and Difficulties Encountered
-
+---
 ## Results
 
 ![Outcomes Based On Launch Date](Assets/Theater_Outcomes_vs_Launch.png)
