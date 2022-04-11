@@ -29,12 +29,10 @@ In the figure above, the chart of stacked columns on the right illustrates the v
 
 
 ![Outcomes by Subcategory](Assets/Kickstarter_SubategoryOutcomes_US.png)
+
 Figure 2: Outcomes for US Kickstarters by Subategory
 
-
-
-
-By calculating "Percentage Funded" and the "Average Funded" (in additional data columns), it is possible to chart the outcomes based on month to identify trends in launch date to better understand how these dates might coorelate with campaign success.
+In figure 2, we see clearly the volume of "plays" successfully funded via this kickstarter method. Louise is on the right track!
 
 
 ### Analysis of Outcomes Based on Launch Date
@@ -42,27 +40,29 @@ By calculating "Percentage Funded" and the "Average Funded" (in additional data 
 ![Outcomes by LaunchDate](Assets/Kickstarter_TheaterOutcomesBasedOnLauchDate_withData.png)
 Figure 3: Outcomes for US "Theater" Kickstarters by Launch Date
 
-By charting outcomes on a line chart with markers based on launch date, we see that the month that lauched the most successful Kickstarter campaigns was May (234/2185). Also illustrated is that failed kickstarters have occured at similarly high rates in January, June, July and October (all near 150/1500).
+By charting outcomes on a line chart with markers based on launch date, we see that the month that lauched the most successful Kickstarter campaigns was May. Also illustrated is that failed kickstarters have occured at similarly high rates in January, June, July and October.  If possible, Louise should launch her campaign in may.
 
 ### Analysis of Outcomes Based on Goals
+
+![Funding IQRs](Assets/Funding_IQRs.png)
+
+By calculating "Percentage Funded" and the "Average Funded" (in additional data columns), it is possible to chart the outcomes based on month to identify trends in launch date to better understand how these dates might coorelate with campaign success.
+
 
 ### Challenges and Difficulties Encountered
 
 ## Results
 
-![Outcomes Based On Launch Date](Assets/Kickstarter_OutcomesBasedOnLaunchDate.png)
+![Outcomes Based On Launch Date](Assets/Theater_Outcomes_vs_Launch.png)
 Outcomes Based on Launch Date Conclusions:
 
-Louise would do well to launch her kickstarter campaign in May. May has the highest success rate of any month accouding to the data analyized.
-
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+Louise would do well to launch her kickstarter campaign in May. May has the highest success rate of any month accouding to the data analyized.  Louise should aim to completely avoid launching in December or January.
 
 
 ![Outcomes Based On Goals](Assets/Kickstarter_Outcomes_vs_Goals.png)
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
-
