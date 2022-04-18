@@ -7,6 +7,7 @@
 For this project, the client Louise is planning on launching a kickstarter campaign to fund the production of her play, "Fever". She has a $10K budget and has asked for help in determining best practices for a successful campaign - which will hopefully aid in her fundraising efforts and conclude with the successful funding of her play. 
 
 ![Louise's Budget](Assets/FeverKickstarterforLouise.png)
+
 Pictured: Louise's Budget
 
 ### Purpose
@@ -38,6 +39,7 @@ In figure 2, we see clearly the volume of "plays" successfully funded via this k
 ### Analysis of Outcomes Based on Launch Date
 
 ![Outcomes by LaunchDate](Assets/Kickstarter_TheaterOutcomesBasedOnLauchDate_withData.png)
+
 Figure 3: Outcomes for US "Theater" Kickstarters by Launch Date
 
 By charting outcomes on a line chart with markers based on launch date, we see that the month that lauched the most successful Kickstarter campaigns was May. Also illustrated is that failed kickstarters have occured at similarly high rates in January, June, July and October.  If possible, Louise should launch her campaign in may.
@@ -45,6 +47,7 @@ By charting outcomes on a line chart with markers based on launch date, we see t
 ### Analyis of Funding IQRs
 
 ![Funding IQRs](Assets/Funding_IQRs.png)
+
 Figure 4: Funding IQRs
 
 Looking at funding, most failed kickstarter campaigns have had higher funding goals. Louise is asking for more than twice the average successful kickstarter goal.  In order for her to have the best chance of success, Louise might consider lowering her fundraising goal on this platform.
@@ -52,6 +55,7 @@ Looking at funding, most failed kickstarter campaigns have had higher funding go
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes Based On Goals](Assets/Outcomes_vs_Goals.png)
+
 Figure 5: Outcomes vs. Goals
 
 By calculating "Percentage Funded" and the "Average Funded" (in additional data columns), it is possible to chart the outcomes based on month to identify trends in launch date to better understand how these dates might coorelate with campaign success. In the chart above "Outcomes vs. Goals", it is not clear what is actually going on, except that there may be many unknown reasons why campaigns fail.
@@ -62,6 +66,7 @@ By calculating "Percentage Funded" and the "Average Funded" (in additional data 
 ## Results
 
 ![Outcomes Based On Launch Date](Assets/Theater_Outcomes_vs_Launch.png)
+
 #### Outcomes Based on Launch Date Conclusions:
 
 Louise would do well to launch her kickstarter campaign in May. May has the highest success rate of any month accouding to the data analyized.  Louise should aim to completely avoid launching in December or January.
