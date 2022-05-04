@@ -12,13 +12,13 @@ Pictured: Louise's Budget
 
 ### Purpose
 
-With an in-depth analysis of global kickstarter campaign data, I hope to generate recommendations that will help the client make decisions about how to manage both her campaign and plan her kickstarter goals, and to launch from an informed viewpoint. The analytics provided in this report should make it possible for my client to leverage analysis insights to improve the probability of a successesful campaign and ensure its meeting - and hopefully surpassing - fundraising goals. 
+With an in-depth analysis of global kickstarter campaign data, I hope to generate recommendations that will help the client make decisions about how to manage both her campaign and plan her kickstarter goals, and to launch from an informed viewpoint. The analytics provided in this report should make it possible for my client to leverage analysis insights to improve the probability of a successful campaign and ensure its meeting - and hopefully surpassing - fundraising goals. 
 
 
 
 ## Analysis and Challenges
 
-For this analysis, data sorting began with adding conditional visuals to the outcomes column, designating successful campaigns (campaigns that reached their goal and were funded) in green, unsucessful campaigns in red, campaigns that are still ongoing (live) in blue, and canceled campaigns in yellow. This is visible in the column labeled "Outcomes" of the main "Kickstarter" worksheet. 
+For this analysis, data sorting began with adding conditional visuals to the Outcomes column, designating successful campaigns (campaigns that reached their goal and were funded) in green, unsuccessful campaigns in red, campaigns that are still ongoing (live) in blue, and canceled campaigns in yellow. This is visible in the column labeled "Outcomes" of the main "Kickstarter" worksheet. 
 
 By adding a pivot table and with these four outcomes as columns, the view of the data is further simplified and highlights the fact that, in the US, the category of "theater" (the category our client's kickstarter falls into, with subcategory "play") has one of the highest success rates with this type of fundraising.
 
@@ -42,7 +42,7 @@ In figure 2, we see clearly the volume of "plays" successfully funded via this k
 
 Figure 3: Outcomes for US "Theater" Kickstarters by Launch Date
 
-By charting outcomes on a line chart with markers based on launch date, we see that the month that lauched the most successful Kickstarter campaigns was May. Also illustrated is that failed kickstarters have occured at similarly high rates in January, June, July and October.  If possible, Louise should launch her campaign in may.
+By charting outcomes on a line chart with markers based on launch date, we see that the month that launched the most successful Kickstarter campaigns was May. Also illustrated is that failed kickstarters have occurred at similarly high rates in January, June, July and October.  If possible, Louise should launch her campaign in May.
 
 ### Analyis of Funding IQRs
 
@@ -50,7 +50,7 @@ By charting outcomes on a line chart with markers based on launch date, we see t
 
 Figure 4: Funding IQRs
 
-Looking at funding, most failed kickstarter campaigns have had higher funding goals. Louise is asking for more than twice the average successful kickstarter goal.  In order for her to have the best chance of success, Louise might consider lowering her fundraising goal on this platform.
+Looking at funding, most failed kickstarter campaigns have had higher funding goals. Louise is asking for more than twice the average successful kickstarter goal.  In order to have the best chance of success, Louise might consider lowering her fundraising goal on this platform.
 
 ### Analysis of Outcomes Based on Goals
 
@@ -58,7 +58,7 @@ Looking at funding, most failed kickstarter campaigns have had higher funding go
 
 Figure 5: Outcomes vs. Goals
 
-By calculating "Percentage Funded" and the "Average Funded" (in additional data columns), it is possible to chart the outcomes based on month to identify trends in launch date to better understand how these dates might coorelate with campaign success. In the chart above "Outcomes vs. Goals", it is not clear what is actually going on, except that there may be many unknown reasons why campaigns fail.
+By calculating "Percentage Funded" and the "Average Funded" (in additional data columns), it is possible to chart the outcomes based on month to identify trends in campaign funding goals to better understand how this information might correlate with campaign success. In the chart above titled "Outcomes vs. Goals", pattern changes are precarious, but could be interpreted as higher fail risk when the funding requested is higher. In truth, there may be many unknown reasons why campaigns fail.
 
 
 ### Challenges and Difficulties Encountered
@@ -69,10 +69,10 @@ By calculating "Percentage Funded" and the "Average Funded" (in additional data 
 
 #### Outcomes Based on Launch Date Conclusions:
 
-Louise would do well to launch her kickstarter campaign in May. May has the highest success rate of any month accouding to the data analyized.  Louise should aim to completely avoid launching in December or January.
+Louise would do well to launch her kickstarter campaign in May. May has the highest success rate of any month according to the data analyzed. Louise should aim to completely avoid launching in December or January.
 
 
 ![Outcomes Based On Goals](Assets/Outcomes_vs_Goals.png)
 #### Outcomes based on Goals Conclusions:
 
-Louise should try to get her play produced for less money - OR simply run her kickstarter fundraiser for at a lower campaign rater - and find a supplemental source of funding (or perhaps lauch a second campaign later).
+Louise should try to get her play produced for less money - OR simply run her kickstarter fundraiser for at a lower campaign rater - and find a supplemental source of funding (or perhaps launch a second campaign later).
